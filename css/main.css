@@ -204,8 +204,8 @@ body {
     color: white;
 }
 
-.attribution a {
-    color: #89f7fe;
+.attribution .a {
     font-size: 12px;
     text-decoration: none;
+    color: #89f7fe;
 }
